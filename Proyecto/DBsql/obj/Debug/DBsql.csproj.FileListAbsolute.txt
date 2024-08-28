@@ -1,0 +1,6 @@
+C:\Users\andre\Desktop\CRUD\DBsql\bin\Debug\DBsql.dll
+C:\Users\andre\Desktop\CRUD\DBsql\bin\Debug\DBsql.pdb
+C:\Users\andre\Desktop\CRUD\DBsql\obj\Debug\DBsql.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\CRUD\DBsql\obj\Debug\DBsql.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\CRUD\DBsql\obj\Debug\DBsql.dll
+C:\Users\andre\Desktop\CRUD\DBsql\obj\Debug\DBsql.pdb

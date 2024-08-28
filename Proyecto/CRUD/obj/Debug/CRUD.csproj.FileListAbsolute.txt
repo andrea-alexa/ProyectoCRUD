@@ -1,0 +1,13 @@
+C:\Users\andre\Desktop\CRUD\CRUD\bin\Debug\CRUD.exe.config
+C:\Users\andre\Desktop\CRUD\CRUD\bin\Debug\CRUD.exe
+C:\Users\andre\Desktop\CRUD\CRUD\bin\Debug\CRUD.pdb
+C:\Users\andre\Desktop\CRUD\CRUD\bin\Debug\DBsql.dll
+C:\Users\andre\Desktop\CRUD\CRUD\bin\Debug\DBsql.pdb
+C:\Users\andre\Desktop\CRUD\CRUD\obj\Debug\CRUD.csproj.AssemblyReference.cache
+C:\Users\andre\Desktop\CRUD\CRUD\obj\Debug\CRUD.Form1.resources
+C:\Users\andre\Desktop\CRUD\CRUD\obj\Debug\CRUD.Properties.Resources.resources
+C:\Users\andre\Desktop\CRUD\CRUD\obj\Debug\CRUD.csproj.GenerateResource.cache
+C:\Users\andre\Desktop\CRUD\CRUD\obj\Debug\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\CRUD\CRUD\obj\Debug\CRUD.csproj.Up2Date
+C:\Users\andre\Desktop\CRUD\CRUD\obj\Debug\CRUD.exe
+C:\Users\andre\Desktop\CRUD\CRUD\obj\Debug\CRUD.pdb
