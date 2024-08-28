@@ -68,7 +68,7 @@ namespace DBsql
 
                 using (SqlCommand comando = new SqlCommand(Buscar, conexion)) // Ejecuta la consulta usando SqlCommand.
                 {
-                    comando.Parameters.AddWithValue("customerId", id); // Agrega el parámetro de ID.
+                    comando.Parameters.AddWithValue("customerId", id); // Agrega el parámetro ID.
 
                     var reader = comando.ExecuteReader(); // Lee los resultados de la consulta.
                     Customer customers = null; // Inicializa la variable de cliente.
